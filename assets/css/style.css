@@ -8741,3 +8741,128 @@ blockquote p:last-child {
 .input-group>.input-group-append>.btn {
 	height: 100%;
 }
+
+.addverti_sec {
+	background-color: #23a1d1;
+	padding: 50px;
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+}
+
+.owl-carouselmain.owl-carousel .owl-nav button.owl-prev {
+	position: absolute !important;
+	border: 1px solid #fff;
+	right: 33px !important;
+}
+
+.owl-carouselmain.owl-carousel .owl-nav button.owl-next {
+	position: absolute !important;
+	border: 1px solid #fff;
+	right: -25px !important;
+}
+
+.owl-carouselmain.owl-carousel .owl-nav button:hover {
+	background-color: transparent;
+}
+
+.owl-carouselmain .sale_countmain {
+	display: flex;
+	gap: 20px;
+	margin-top: 50px;
+}
+
+.owl-carouselmain .sale_countmain .sale_countbox {
+	text-align: center;
+	color: #fff;
+}
+
+.owl-carouselmain .sale_countmain .sale_countbox .countnum {
+	font-size: 30px;
+	background: #fff;
+	text-align: center;
+	height: 65px;
+	width: 65px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: #23a1d1;
+	;
+}
+
+.owl-carouselmain .sale_countmain .sale_countbox .days {
+	font-size: 16px;
+
+}
+
+.btn_shopmega {
+	background-color: #fff;
+	border: 1px solid #fff;
+	color: #000;
+	border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	-ms-border-radius: 0px;
+	-o-border-radius: 0px;
+}
+
+.btn_shopmega:hover {
+	border: 1px solid #fff;
+	color: #fff;
+}
+
+.about_section .about_right .about_list {
+	list-style: none;
+	margin-bottom: 30px;
+}
+
+.about_section .about_right .about_list li {
+	margin-bottom: 15px;
+	display: flex;
+	gap: 8px;
+}
+
+.about_section .about_right .about_list li i {
+	background-color: #23a1d1;
+	width: 25px;
+	height: 25px;
+	border-radius: 2px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	-ms-border-radius: 2px;
+	-o-border-radius: 2px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: #fff;
+}
+
+.about_section .about_leftimg {
+	position: relative;
+	text-align: center;
+}
+
+.about_section .about_leftimg .img1 {
+	background: #e2edf4;
+}
+
+.about_section .about_leftimg .img2 {
+    height: 180px;
+    right: 10px;
+    position: absolute;
+    bottom: -20px;
+    background: #fff;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.about_section .about_leftimg .img3 {
+	height: 200px;
+	width: 200px;
+	left: -100px;
+	position: absolute;
+	top: 50px;
+    border-radius: 5px;
+}
