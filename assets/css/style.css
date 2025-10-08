@@ -6432,13 +6432,13 @@ footer .widget_title {
 }
 
 .pr_detail .rating_wrap {
-	float: right;
-	margin-top: 7px;
+	/* float: right; */
+	margin: 7px 0;
 }
 
-.pr_detail .product_price {
+/* .pr_detail .product_price {
 	float: left;
-}
+} */
 
 .pr_detail .price {
 	vertical-align: middle;
